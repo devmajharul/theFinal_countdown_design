@@ -1,0 +1,39 @@
+/* Base Css */
+body{
+	margin:0;
+	padding:0;
+	font-family: 'Roboto',sans-serif;
+}
+h1,h2,h3,h4,h5,h6,p{
+	margin:0;
+	padding:0;
+}
+
+ul{
+	list-style: none;
+	margin:0;
+	padding:0;
+}
+a{
+	text-decoration: none;
+}
+
+img{
+	max-width: 100%;
+	height: auto;
+}
+
+.count_down_wrapper {
+    text-align: center;
+    margin: 18px;
+}
+
+.single_timer {
+    font-size: 35px;
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.single_timer span {
+    font-size: 25px;
+}
